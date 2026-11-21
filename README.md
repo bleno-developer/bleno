@@ -1,5 +1,9 @@
 # BLENO NETWORK / BLENO HUB
 
+Site: https://bleno.com.br/hub/
+
+BlenoScan: https://bleno.com.br
+
 # Documentação Técnica & Whitepaper
 
 # 1. Arquitetura Técnica & Parâmetros da Rede
